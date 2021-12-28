@@ -1,0 +1,83 @@
+
+
+#searchButton {font-family:'Lato', sans-serif ;
+  background: #6687a3;
+color:whitesmoke;
+border: black 1px solid;
+border-radius: 5px;}
+
+#searchButton:hover {background: whitesmoke;
+color:#6687a3;}
+
+#searchLocation {font-family:'Lato', sans-serif ;
+  background: #999999;
+  color: whitesmoke;
+border: black 1px solid;
+border-radius: 5px;}
+
+#searchLocation:hover {background: whitesmoke;
+color: #999999;}
+
+#current-weather {text-align: center;}
+
+h1 {
+  font-family: 'Luckiest Guy', cursive;
+margin-bottom: 0px;
+color: #333333;}
+
+
+ul {
+  position:relative;
+  list-style: none;
+margin: -10px;
+padding: 0px;}
+
+li {display: block;}
+
+
+.row {margin-bottom: 5px;
+}
+
+.weather-app-wrapper {max-width: 700px;
+  margin: 30px auto;}
+
+.weather-app {
+  padding:20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color:#D4ECDD;}
+
+
+  .weather-temperature img {margin-right: 10px;
+  height: 64px;
+width: 64px;
+margin-bottom: 10px;}
+
+.weather-temperature strong {color: #333333;
+font-size: 54px;}
+
+.weather-temperature small {position: relative;
+top: -32px;}
+
+.weather-temperature .active {color: #333333;
+cursor: default;
+text-decoration: none;}
+
+#description {margin-top: 0px;
+  text-transform: capitalize;}
+
+#weather-decription {text-align: center;
+  margin-top:30px;}
+
+#weather-forecast {margin-top: 30px;
+text-align:center;}
+
+#weather-forecast-date {font-size: 16px;
+text-align:center;
+opacity: 0.7;}
+
+#forecast-min-temperature {opacity: 0.5}
+
+div {
+  font-family: 'Lato', sans-serif;
+  color: #333333;}
