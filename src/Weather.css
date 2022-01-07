@@ -81,3 +81,8 @@ opacity: 0.7;}
 div {
   font-family: 'Lato', sans-serif;
   color: #333333;}
+
+canvas {height:64px;
+    width: 64px;
+    margin-right: 10px;
+    display:inline-block;}
